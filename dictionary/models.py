@@ -4,6 +4,7 @@ from datetime import date
 # Create your models here.
 class Dictionary(models.Model):
     # lang = models.CharField(max_length=5,choices=(('en','en'),('uz','uz')),default='en')
+    chat_id = models.PositiveIntegerField(default=764719178)
     word = models.CharField(max_length=150)
     meaning = models.CharField(max_length=300)
     created = models.DateField(default=date.today())

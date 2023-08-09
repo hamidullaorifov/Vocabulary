@@ -1,4 +1,5 @@
 import re
+import pandas as pd
 def text_to_dic(text):
     dic = []
     date_str=None
@@ -48,3 +49,16 @@ def text_to_dic(text):
             dic.append((key,meaning,example))
             text = text[second.end():]
     return dic,date_str
+
+
+def get_dictionary_from_xlsx(path):
+    # with open(path,'rb') as f:
+    #     file = f.read()
+    df = pd.read_excel(path)
+    return df.values.tolist()
+
+    # for w, m, e in zip(data['word'].values(),data['meaning'].values,data['example'].values()):
+
+
+
+# print(get_dictionary_from_xlsx('input.xlsx'))

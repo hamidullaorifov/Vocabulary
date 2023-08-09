@@ -173,6 +173,24 @@ def test_callback_handler(update:Update,context:CallbackContext):
     elif callback_data == 'yes':
         return test_single_dic(update,context)
         
+def test_full_dicts(update:Update,context:CallbackContext):
+    operation = context.chat_data['operation']
+    dics_list = Dictionary.objects.all().order_by("?")
+    if operation == 'find_meaning':
+        dics = [(d.word,d.meaning,d.example) for d in dics_list]
+    else:
+        dics = [(d.meaning,d.word,d.example) for d in dics_list]
+    if dics:
+        context.chat_data.update({
+            'dictionary':dics,
+            'unfound_words':[],
+        })
+
+        return test_single_dic(update,context)
+    else:
+        update.message.reply_text(text='There is no any dictionary.Create dictionary,please')
+        return NEW_DIC_STATE
+
 
 def test_by_date(update:Update,context:CallbackContext):
     text = update.message.text
@@ -288,6 +306,7 @@ dispatcher.add_handler(ConversationHandler(
         QUIZ_STATE:
         [
            MessageHandler(Filters.regex(r'Back to menu$'),callback=back_to_menu), 
+           MessageHandler(Filters.regex(r'full$'),callback=test_full_dicts), 
            MessageHandler(Filters.regex(r'all$'),callback=test_all_dicts), 
            MessageHandler(Filters.regex(r'^date_[0-9]{2}/[0-9]{2}/[0-9]{4}$'),callback=test_by_date),
            MessageHandler(Filters.regex(r'^date_[0-9]{1}/[0-9]{2}/[0-9]{4}$'),callback=test_by_date),
