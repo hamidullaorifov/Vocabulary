@@ -1,4 +1,3 @@
-
 import os
 import sys
 import django
@@ -22,6 +21,7 @@ from dictionary.models import Dictionary
 FIND_WORD_STATE, FIND_MEANING_STATE,CREATE_DICT_STATE,TEST_STATE = range(4)
 
 def start_handler(update:Update,context:CallbackContext):
+    context.chat_data.clear()
     update.message.reply_text('Hello,Choose menu!',reply_markup=menu_keyboard())
 
     
@@ -68,7 +68,7 @@ def choose_period_handler(update:Update,context:CallbackContext):
     state = context.chat_data.get('context','find_word')
     dictionaries = filter_dictionaries(chat_id=chat_id,period=period)
     dics = []
-    if state == 'find_word':
+    if state == 'find_meaning':
         dics = [
             {
                 'word':d.word,
@@ -76,7 +76,7 @@ def choose_period_handler(update:Update,context:CallbackContext):
                 'example':d.example
             } for d in dictionaries
         ]   
-    elif state == 'find_meaning':
+    elif state == 'find_word':
         dics = [
             {
                 'word':d.meaning,

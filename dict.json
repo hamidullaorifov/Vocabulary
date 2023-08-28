@@ -1,0 +1,3192 @@
+[
+    {
+        "model": "dictionary.dictionary",
+        "pk": 1,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Carry out",
+            "meaning": "perform an experiment, etc",
+            "created": "2023-03-04",
+            "example": "The investigators have been carrying out tests on the pieces of plane recovered after the accident"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 2,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Come off",
+            "meaning": "succeed",
+            "created": "2023-03-04",
+            "example": "Well, I think it's a stupid plan and I'll be amazed if it comes off"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 3,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Come on",
+            "meaning": "develop or make progress",
+            "created": "2023-03-04",
+            "example": "Your piano playing is really coming on, isn't it?"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 4,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Come up with",
+            "meaning": "think of (an idea, a plan, etc)",
+            "created": "2023-03-04",
+            "example": "Who do you think came up with the idea of the bicycle?"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 5,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Cut off",
+            "meaning": "stop the supply of sth",
+            "created": "2023-03-04",
+            "example": "When we move, don't forget to tell them to cut the water and electricity off"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 6,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Give off",
+            "meaning": "produce sth such as heat or a smell",
+            "created": "2023-03-04",
+            "example": "The fridge gets hot next to the cooker because the cooker gives off a lot of heat"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 7,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Narrow down",
+            "meaning": "reduce the number of possibilities",
+            "created": "2023-03-04",
+            "example": "I still haven't decided which university to go to, but I've narrowed it down to about four"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 8,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Plug in",
+            "meaning": "connect to the electricity supply",
+            "created": "2023-03-04",
+            "example": "I couldn't understand why the vacuum cleaner wasn't working and then I realised I hadn't plugged it in."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 9,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Put through",
+            "meaning": "connect by phone",
+            "created": "2023-03-04",
+            "example": "I'll just put you through to the supervisor, Mrs Edwards."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 10,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Turn into",
+            "meaning": "change into sth different",
+            "created": "2023-03-04",
+            "example": "It started as the holiday of a lifetime but soon turned into a nightmare."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 11,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Work out",
+            "meaning": "find the solution to a problem, etc",
+            "created": "2023-03-04",
+            "example": "If you look at the context, maybe you can work out what the word means."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 12,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Pitch",
+            "meaning": "a flat area of ground that is used for playing sports on",
+            "created": "2023-03-02",
+            "example": ""
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 13,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Track",
+            "meaning": "a piece of ground that is used for running or racing",
+            "created": "2023-03-02",
+            "example": ""
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 14,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Rink",
+            "meaning": "a large flat area where people go to skate",
+            "created": "2023-03-02",
+            "example": ""
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 15,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Spectator",
+            "meaning": "someone who watches a public activity or event (tomoshabin)",
+            "created": "2023-03-02",
+            "example": ""
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 16,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Viewer",
+            "meaning": "someone who watches television programmes",
+            "created": "2023-03-02",
+            "example": ""
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 17,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Umpire",
+            "meaning": "sudya",
+            "created": "2023-03-02",
+            "example": ""
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 18,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Finale",
+            "meaning": "the last part of a performance with the most exciting music and dancing",
+            "created": "2023-03-02",
+            "example": ""
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 19,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Bat",
+            "meaning": "bita",
+            "created": "2023-03-02",
+            "example": ""
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 20,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Stick",
+            "meaning": "tayoq",
+            "created": "2023-03-02",
+            "example": ""
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 21,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Rod",
+            "meaning": "a long thin bar or stick made of metal, plastic or wood",
+            "created": "2023-03-02",
+            "example": ""
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 22,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Amateur",
+            "meaning": "done for pleasure instead of as a job",
+            "created": "2023-03-02",
+            "example": ""
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 23,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Bring forward",
+            "meaning": "change the date/time of an event so it happens earlier",
+            "created": "2023-03-02",
+            "example": "Because of recent events, the meeting has been brought forward to the 29th"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 24,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Get round to",
+            "meaning": "start (after planning to do sth for a long time)",
+            "created": "2023-03-02",
+            "example": "When do you think you'll get round to fixing the bathroom door?"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 25,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Get up to",
+            "meaning": "do; do sth you should not do",
+            "created": "2023-03-02",
+            "example": "My brother and I used to get up to lots of things our parents didn't know about when were young."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 26,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Go in for",
+            "meaning": "enter (a competition, etc)",
+            "created": "2023-03-02",
+            "example": "You should go in for the talent contest they're holding at the youth club this weekend."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 27,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Go off",
+            "meaning": "stop liking",
+            "created": "2023-03-02",
+            "example": "Will used to really like jazz music, but he's gone off it lately"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 28,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Look out",
+            "meaning": "be careful",
+            "created": "2023-03-02",
+            "example": "Look out! You're going to fall!"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 29,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Pull out",
+            "meaning": "stop being involved in an activity",
+            "created": "2023-03-02",
+            "example": "The other company pulled out of the deal at the last minute."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 30,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Put up with",
+            "meaning": "chidamoq (tolerate)",
+            "created": "2023-03-02",
+            "example": "You have to put up with a lot in this job, but it's worth it in the end."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 31,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Take to",
+            "meaning": "start (as a habit)",
+            "created": "2023-03-02",
+            "example": "I've taken to going for a five-mile run every morning"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 32,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Take up",
+            "meaning": "fill an amount of space/time",
+            "created": "2023-03-02",
+            "example": "Studying takes up most of my time at the moment."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 33,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Bring up",
+            "meaning": "start discussing a subjects.",
+            "created": "2023-03-05",
+            "example": "I hate to bring it up, but do you have that money you owe me?"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 34,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Come on",
+            "meaning": "start to be broadcast",
+            "created": "2023-03-05",
+            "example": "That quiz show you wanted to watch comes on in half an hour."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 35,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Flick through",
+            "meaning": "turn and look at the pages of a magazine, etc quickly",
+            "created": "2023-03-05",
+            "example": "I was flicking through a magazine when, suddenly, I saw a photograph of the man who had stolen the money!"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 36,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Go into",
+            "meaning": "deal with sth in detail",
+            "created": "2023-03-05",
+            "example": "The head teacher asked me to go to the school to talk about Alexander's behaviour, but she wouldn't go into it on the phone"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 37,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Hand out",
+            "meaning": "give things to people in a group",
+            "created": "2023-03-05",
+            "example": "Johnnie, please hand these out to everyone in the class."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 38,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Look up",
+            "meaning": "try to find information in a book or list, etc",
+            "created": "2023-03-05",
+            "example": "Just a second-I'll look Harry's number up in the phone book."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 39,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Make out",
+            "meaning": "pretend that something is true; see,hear or understand sb or sth with difficulty",
+            "created": "2023-03-05",
+            "example": "Neil tried to make out that he'd won the lottery, but we all knew it wasn't true."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 40,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Put forward",
+            "meaning": "suggest",
+            "created": "2023-03-05",
+            "example": "A number of suggestions were put forward during the meeting but none of them were very useful."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 41,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "See through",
+            "meaning": "recognise that sth is not true and not be tricked by it",
+            "created": "2023-03-05",
+            "example": "The guard saw through the woman's disguise and immediately arrested her"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 42,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Stand out",
+            "meaning": "be easy to see because of being different",
+            "created": "2023-03-05",
+            "example": "Molly has bright red hair, so she always stands out in a crowd!"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 43,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Circumstance",
+            "meaning": "vaziyat,holat",
+            "created": "2023-03-07",
+            "example": ""
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 44,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Leisure",
+            "meaning": "dam olish ,bo’sh",
+            "created": "2023-03-07",
+            "example": ""
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 45,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Consequence",
+            "meaning": "oqibat",
+            "created": "2023-03-07",
+            "example": ""
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 46,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Perceive",
+            "meaning": "idrok etmoq",
+            "created": "2023-03-07",
+            "example": ""
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 47,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Notion",
+            "meaning": "tushuncha",
+            "created": "2023-03-07",
+            "example": ""
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 48,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Resent",
+            "meaning": "norozilik",
+            "created": "2023-03-07",
+            "example": ""
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 49,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Firmly",
+            "meaning": "mustahkam,qat’iy",
+            "created": "2023-03-07",
+            "example": ""
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 50,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Intrigue",
+            "meaning": "intriga",
+            "created": "2023-03-07",
+            "example": ""
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 51,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Novelty",
+            "meaning": "yangilik",
+            "created": "2023-03-07",
+            "example": ""
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 52,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Inevitable",
+            "meaning": "muqarrar",
+            "created": "2023-03-07",
+            "example": ""
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 53,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Accustomed",
+            "meaning": "odatlangan",
+            "created": "2023-03-07",
+            "example": ""
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 54,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Irritation",
+            "meaning": "g’azablanish",
+            "created": "2023-03-07",
+            "example": ""
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 55,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Homesick",
+            "meaning": "uy sog’inchi",
+            "created": "2023-03-07",
+            "example": ""
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 56,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Pity",
+            "meaning": "achinish",
+            "created": "2023-03-07",
+            "example": ""
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 57,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Ask after",
+            "meaning": "ask for news about",
+            "created": "2023-03-07",
+            "example": "Tony was asking after you and I told him you were fine"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 58,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Fall for",
+            "meaning": "fall in love with; believe (a lie/trick/etc)",
+            "created": "2023-03-07",
+            "example": "Romeo really fell for juliet when he first kissed her. I told sam that we had the day off school, and he fell for it"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 59,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Fall out (with)",
+            "meaning": "have an argument with and stop being friends",
+            "created": "2023-03-07",
+            "example": "Pamela hasn't spoken to her father since they fell out eight years ago"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 60,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Look down on",
+            "meaning": "think that you are better than",
+            "created": "2023-03-07",
+            "example": "It annoys me the way Vera looks down on other people."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 61,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Look up to",
+            "meaning": "admire and respect",
+            "created": "2023-03-07",
+            "example": "I've always looked up to my elder brother because he never gives up"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 62,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Make up",
+            "meaning": "become friends again after an argument",
+            "created": "2023-03-07",
+            "example": "I had an argument with my best friend, but we soon made up"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 63,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Pass away",
+            "meaning": "die",
+            "created": "2023-03-07",
+            "example": "I was sorry to hear that your grandfather passed away"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 64,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Pick on",
+            "meaning": "keep treating someone badly or unfairly",
+            "created": "2023-03-07",
+            "example": "It's not fair when some of the bigger boys pick on the little ones"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 65,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Put down",
+            "meaning": "criticise, make someone feel stupid",
+            "created": "2023-03-07",
+            "example": "I wish you wouldn't keep putting me down in front of other people!"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 66,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Settle down",
+            "meaning": "become calm after being upset; stay in one place,get married and live quietly",
+            "created": "2023-03-07",
+            "example": "When his mum left him at school on the first day, Charlie was quite upset, but he soon settled down and started to enjoy himself. She spent her twenties travelling round the world and then settled down in a quiet village in Sussex"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 67,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Stand up for",
+            "meaning": "support in an argument or fight",
+            "created": "2023-03-07",
+            "example": "I know that my best friend will always stand up for me"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 68,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Take aback",
+            "meaning": "surprise (usually in passive voice)",
+            "created": "2023-03-07",
+            "example": "We were all taken aback by the news."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 69,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Approach",
+            "meaning": "yaqinlashmoq",
+            "created": "2023-02-10",
+            "example": "Example: The boy approached his school."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 70,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Concern",
+            "meaning": "tashvish, g’am",
+            "created": "2023-02-10",
+            "example": "Example: I was filled with concern after reading the newspaper"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 71,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Content",
+            "meaning": "mamnun, shod",
+            "created": "2023-02-10",
+            "example": "Example: The baby looked very content sitting on the floor"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 72,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Instruct",
+            "meaning": "o’qitmoq,o’rgatmoq",
+            "created": "2023-02-10",
+            "example": "Example: My teacher instructs us in several subjects."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 73,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Represent",
+            "meaning": "vakil bo’lmoq",
+            "created": "2023-02-10",
+            "example": "Example: My lawyer will represent me in court."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 74,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Likely",
+            "meaning": "ehtimol",
+            "created": "2023-02-10",
+            "example": "Example: I will likely stay at home and watch TV tonight."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 75,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Beside",
+            "meaning": "yonida",
+            "created": "2023-02-10",
+            "example": "Example: The two brothers stood beside each other ."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 76,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Sense",
+            "meaning": "sezmoq",
+            "created": "2023-02-10",
+            "example": "Example: I could sense that he was watching me."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 77,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Arrange",
+            "meaning": "joylashtirmoq, joyiga qo’ymoq",
+            "created": "2023-02-10",
+            "example": "Please arrange the bowling pins in order so we can play."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 78,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Grab",
+            "meaning": "yulib olmoq, uzib olmoq",
+            "created": "2023-02-10",
+            "example": "I grabbed a pear from the tree."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 79,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Apartment",
+            "meaning": "kvartira, xona",
+            "created": "2023-02-10",
+            "example": "She has a nice apartment in the city"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 80,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Demand",
+            "meaning": "talab qilmoq, so’ramoq",
+            "created": "2023-02-10",
+            "example": "The workers demanded to be paid more money."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 81,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Outline",
+            "meaning": "shakl,reja, chizma,tafsilot",
+            "created": "2023-02-10",
+            "example": "Before I wrote my essay, I made an outline."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 82,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Observe",
+            "meaning": "tomosha qilmoq",
+            "created": "2023-02-10",
+            "example": "Brian observed the sun rising"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 83,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Regard",
+            "meaning": ".. deb bilmoq",
+            "created": "2023-02-10",
+            "example": "The boy regarded the girl as a good friend."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 84,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Advance",
+            "meaning": "oldinga siljimoq",
+            "created": "2023-02-10",
+            "example": "He advanced up the ladder slowly."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 85,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Behind",
+            "meaning": "orqasida",
+            "created": "2023-02-10",
+            "example": "The little girl was hiding behind a tree"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 86,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Mental",
+            "meaning": "aqliy",
+            "created": "2023-02-10",
+            "example": "I made a mental picture of the room."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 87,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Cheer",
+            "meaning": "hayqirmoq, olqishlamoq",
+            "created": "2023-02-10",
+            "example": "The crowd all cheered when the home team won."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 88,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Associate",
+            "meaning": "bog’lamoq, bog’langan",
+            "created": "2023-02-10",
+            "example": "Most people associate birthday parties with having fun."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 89,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Feature",
+            "meaning": "xususiyat, afzallik",
+            "created": "2023-02-11",
+            "example": "The cell phone has many features."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 90,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Involve",
+            "meaning": "jalb qilmoq, o’z ichiga olmoq",
+            "created": "2023-02-11",
+            "example": "The whole family was involved in playing the game."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 91,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Tip",
+            "meaning": "uchi",
+            "created": "2023-02-11",
+            "example": "The tip of his pen was very sharp."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 92,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Imply",
+            "meaning": "nazarda tutmoq",
+            "created": "2023-02-11",
+            "example": "The man implied that he wanted the job, but he didn’t say so."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 93,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Maintain",
+            "meaning": "holatini saqlab qolmoq",
+            "created": "2023-02-11",
+            "example": "The balls maintain constant movement."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 94,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Deal",
+            "meaning": "kelishuv, shartnoma",
+            "created": "2023-02-11",
+            "example": "I made a deal with the other company to give us some money."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 95,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Specific",
+            "meaning": "aniq",
+            "created": "2023-02-11",
+            "example": "Please choose a specific place on the map."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 96,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Barely",
+            "meaning": "zo’rg’a,deyarli yo’q",
+            "created": "2023-02-11",
+            "example": "I barely had enough money to pay for my bus ticket."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 97,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Rush",
+            "meaning": "shoshilmoq",
+            "created": "2023-02-11",
+            "example": "Nancy rushed to finish her homework"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 98,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Assign",
+            "meaning": "topshirmoq, tayinlamoq",
+            "created": "2023-02-11",
+            "example": "I assigned the worker an important task."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 99,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Mean",
+            "meaning": "yomon",
+            "created": "2023-02-11",
+            "example": "My co-worker is a very mean person. He gets angry very quickly"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 100,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Somehow",
+            "meaning": "qandaydir tarzda",
+            "created": "2023-02-11",
+            "example": "He somehow had to find a way to reach the life preserver"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 101,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Ahead",
+            "meaning": "oldida",
+            "created": "2023-02-11",
+            "example": "The blue car drove on ahead of us."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 102,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Evidence",
+            "meaning": "dalil",
+            "created": "2023-02-11",
+            "example": "He used the pictures as evidence that UFOs are real."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 103,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Proper",
+            "meaning": "to’g’ri",
+            "created": "2023-02-11",
+            "example": "It is not proper to throw your garbage on the road"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 104,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Anxious",
+            "meaning": "tashvishli,xavotirli",
+            "created": "2023-02-11",
+            "example": "She was anxious about not making her appointment on time."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 105,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Desire",
+            "meaning": "xohlamoq",
+            "created": "2023-02-11",
+            "example": "My sister desires a big house and lots of money."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 106,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Eager",
+            "meaning": "ishtiyoqli",
+            "created": "2023-02-11",
+            "example": "The man was eager to talk about the good news."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 107,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Household",
+            "meaning": "oila a’zolari",
+            "created": "2023-02-11",
+            "example": "Our household is made up of my father, my mother and me."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 108,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Intent",
+            "meaning": "niyat, maqsad",
+            "created": "2023-02-11",
+            "example": "Her intent is to visit Italy next summer."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 109,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Carry on",
+            "meaning": "davom etmoq",
+            "created": "2023-02-11",
+            "example": "The phone rang, but Mark just carried on watching TV."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 110,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Eat out",
+            "meaning": "restoranda ovqatlanmoq",
+            "created": "2023-02-11",
+            "example": "Would you like to stay in or eat out tonight?"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 111,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Give up",
+            "meaning": "biror narsa qilishni tashlamoq, to’xtatmoq",
+            "created": "2023-02-11",
+            "example": "You should give up smoking."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 112,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Join in",
+            "meaning": "ishtirok etmoq",
+            "created": "2023-02-11",
+            "example": "Ask them if you can play - I ’m sure they'll let you join in."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 113,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Send off",
+            "meaning": "o’yinchini o’yindan chiqarmoq",
+            "created": "2023-02-11",
+            "example": "It was a very bad foul and the referee sent the player off"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 114,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Take up",
+            "meaning": "boshlamoq (sport, hobby)",
+            "created": "2023-02-11",
+            "example": "I ’ve taken up stamp collecting and it’s really inteiesting."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 115,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Turn down",
+            "meaning": "ovozini pasaytirmoq",
+            "created": "2023-02-11",
+            "example": "Turn the radio down - I'm trying to work."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 116,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Turn up",
+            "meaning": "ovozini ko’tarmoq",
+            "created": "2023-02-11",
+            "example": "We asked our teacher to turn the CD up, so that we could hear it."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 117,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Cross out",
+            "meaning": "Ustidan chizmoq",
+            "created": "2023-02-11",
+            "example": "Just cross it out and rewrite it correctly."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 118,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Point out",
+            "meaning": "muhim ma’lumotni aytmoq, ta’kidlamoq",
+            "created": "2023-02-11",
+            "example": "He pointed out that we had two hours of free tim e before dinner."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 119,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Read out",
+            "meaning": "ovozini chiqarmoq",
+            "created": "2023-02-11",
+            "example": "He read the list of names out."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 120,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Rip up",
+            "meaning": "yirtib tashlamoq",
+            "created": "2023-02-11",
+            "example": "Rip up this piece of paper when you've finished reading it."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 121,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Rub out",
+            "meaning": "o’chirg’ich bilan o’chirmoq",
+            "created": "2023-02-11",
+            "example": "I can't rub it out because I wrote it in pen."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 122,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Turn over",
+            "meaning": "ag’darmoq",
+            "created": "2023-02-11",
+            "example": "You may turn over your exam papers now."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 123,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Write down",
+            "meaning": "Yozib qo’ymoq",
+            "created": "2023-02-11",
+            "example": "Do you want to write down my phone number?"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 124,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Bring up",
+            "meaning": "voyage yetkazmoq",
+            "created": "2023-02-17",
+            "example": "She brought up three sons on her own."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 125,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Fall out (with)",
+            "meaning": "ajrashmoq, aloqani uzmoq,do’stlikni tugatmoq",
+            "created": "2023-02-17",
+            "example": "Have you two fallen out?"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 126,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Get on (with)",
+            "meaning": "yaxshi munosabatda bolmoq, til topishmoq, chiqishmoq",
+            "created": "2023-02-17",
+            "example": "She seems to get on with everybody"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 127,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Go out with",
+            "meaning": "to be the boyfriend/girlfriend of",
+            "created": "2023-02-17",
+            "example": "Gieg used to go out with Katy."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 128,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Grow up",
+            "meaning": "ulg’aymoq",
+            "created": "2023-02-17",
+            "example": "He rarely saw his father while he was growing up."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 129,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Let down",
+            "meaning": "hafsalasi pir qilmoq, ko’nglini qoldirmoq",
+            "created": "2023-02-17",
+            "example": "You've really let me down"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 130,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Look after",
+            "meaning": "g’amxo’rlik qilmoq",
+            "created": "2023-02-17",
+            "example": "It ’s hard work looking after three children all day."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 131,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Split up",
+            "meaning": "munosabatni tugatmoq, ajrashmoq",
+            "created": "2023-02-17",
+            "example": "Tommy and Liz have just split up. It's very sad!"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 132,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Add up",
+            "meaning": "to find the total of",
+            "created": "2023-02-18",
+            "example": "The shop assistant added up what I ’d bought and told me the total."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 133,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Come back (from)",
+            "meaning": "qaytmoq",
+            "created": "2023-02-18",
+            "example": "Give me a call when you come back from Greece."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 134,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Give away",
+            "meaning": "tekinga bermoq,berib yubormoq",
+            "created": "2023-02-18",
+            "example": "They are giving away free tickets at the cinema!"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 135,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Hurry up",
+            "meaning": "shoshilmoq",
+            "created": "2023-02-18",
+            "example": "We haven 't got much time, so hurry up!"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 136,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Pay back",
+            "meaning": "pulini qaytarmoq",
+            "created": "2023-02-18",
+            "example": "Did you pay Denise back?"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 137,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Save up (for)",
+            "meaning": "biror maqsadda pul yig’moq",
+            "created": "2023-02-18",
+            "example": "I'm saving up for a new electric guitar"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 138,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Take back",
+            "meaning": "joyiga qaytarib qo’ymoq",
+            "created": "2023-02-18",
+            "example": "I'm going to take my library books back."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 139,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Take down",
+            "meaning": "pastga olmoq,tushirmoq",
+            "created": "2023-02-18",
+            "example": "The old man took a large book down from a shelf"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 140,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Break in(to)",
+            "meaning": "noqonuniy kirmoq",
+            "created": "2023-02-21",
+            "example": "A house in Brecon Place was broken into last night"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 141,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Catch up (with)",
+            "meaning": "…bilan bir xil darajaga/nuqtaga yetmoq",
+            "created": "2023-02-21",
+            "example": "He’s missed so much school that he’s going to find it hard to catch up."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 142,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Get away with",
+            "meaning": "jazodan qutilib qolmoq",
+            "created": "2023-02-21",
+            "example": "They have repeatedly broken the law and got away with it."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 143,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Move in",
+            "meaning": "yangi uyda yashashni boshlamoq",
+            "created": "2023-02-21",
+            "example": "We're moving in next week."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 144,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Put away",
+            "meaning": "joyiga qaytarib qo’ymoq",
+            "created": "2023-02-21",
+            "example": "He put the notebook away and stood up."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 145,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Wash up",
+            "meaning": "idishlarni yuvmoq",
+            "created": "2023-02-21",
+            "example": "I can help to cook and wash up"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 146,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Ambition",
+            "meaning": "yetishishni juda xohlagan narsa,orzu,intilish",
+            "created": "2023-02-22",
+            "example": "His ambition was to become a successful writer"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 147,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Deserve",
+            "meaning": "sazovor bo’lmoq,munosib bo’lmoq,loyiq bo’lmoq",
+            "created": "2023-02-22",
+            "example": "After five hours on your feet you deserve a break."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 148,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Fame",
+            "meaning": "shon-sharaf, mashhurlik,obro’",
+            "created": "2023-02-22",
+            "example": "Albert Finney rose to fame in the British cinema of the early Sixties."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 149,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Impress",
+            "meaning": "hayron qoldirmoq",
+            "created": "2023-02-22",
+            "example": "Her ability to deal with problems impresses me."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 150,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Poverty",
+            "meaning": "kambag’allik, yo’qchilik",
+            "created": "2023-02-22",
+            "example": "Half the world’s population is living in poverty."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 151,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Beggar",
+            "meaning": "tilanchi",
+            "created": "2023-02-22",
+            "example": "I was surprised to see beggars on the streets of London."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 152,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Occupation",
+            "meaning": "kasbdan tashqari qilinadigan ish",
+            "created": "2023-02-22",
+            "example": "The form asked for my occupation and I wrote ‘Student’."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 153,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Call off",
+            "meaning": "bekor qilmoq",
+            "created": "2023-02-22",
+            "example": "The concert has been called off because of the weather."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 154,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Give back",
+            "meaning": "olgan narsani qaytarib bermoq",
+            "created": "2023-02-22",
+            "example": "Could you give my CD s back because you’ve had them for two weeks."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 155,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Go on",
+            "meaning": "sodir bo’lmoq",
+            "created": "2023-02-22",
+            "example": "There isn't, much going on in this town in the evening."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 156,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Put off",
+            "meaning": "kechiktirmoq",
+            "created": "2023-02-22",
+            "example": "Can we put the meeting off until tomorrow?"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 157,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Set up",
+            "meaning": "boshlamoq(biznes,tashkilot)",
+            "created": "2023-02-22",
+            "example": "My dad is going to set up a taxi company."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 158,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Stay up",
+            "meaning": "uxlashga kech yotmoq",
+            "created": "2023-02-22",
+            "example": "We stayed up until two o'clock last night"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 159,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Take away",
+            "meaning": "olib tashlamoq",
+            "created": "2023-02-22",
+            "example": "Have they taken the rubbish away yet?"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 160,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Take over",
+            "meaning": "nazoratga olmoq",
+            "created": "2023-02-22",
+            "example": "The shopping centre has been taken over by an American company."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 161,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Affect",
+            "meaning": "salbiy ta’sir ko’rsatmoq",
+            "created": "2023-02-23",
+            "example": "Did the newspapers really affect the outcome of the election?"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 162,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Balance",
+            "meaning": "muvozanat saqlamoq",
+            "created": "2023-02-23",
+            "example": "We have to balance the needs and tastes of all our customers."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 163,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Cough",
+            "meaning": "yo’talmoq",
+            "created": "2023-02-23",
+            "example": "My chest felt painful, and I was coughing uncontrollably"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 164,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Cure",
+            "meaning": "tuzatmoq,davolamoq",
+            "created": "2023-02-23",
+            "example": "Only an operation will cure her"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 165,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Have an operation",
+            "meaning": "operatsiya qilmoq",
+            "created": "2023-02-23",
+            "example": "The baby had to have an operation."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 166,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Pill",
+            "meaning": "tabletka",
+            "created": "2023-02-23",
+            "example": "Did you remember to take your pills this morning?"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 167,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Recover",
+            "meaning": "tuzalmoq",
+            "created": "2023-02-23",
+            "example": "I haven't fully recovered from the flu"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 168,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Slice",
+            "meaning": "tilim- tilim qilmoq",
+            "created": "2023-02-23",
+            "example": "I’ll slice some bread."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 169,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Sour",
+            "meaning": "nordon",
+            "created": "2023-02-23",
+            "example": "If it's too sour, add some sugar."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 170,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Spicy",
+            "meaning": "dorivor, ziravorli, achchiq",
+            "created": "2023-02-23",
+            "example": "Curry should be spicy!"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 171,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Stir",
+            "meaning": "aralashtirmoq",
+            "created": "2023-02-23",
+            "example": "Stir the sauce gently over a low heat."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 172,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Bend",
+            "meaning": "bukmoq,egilmoq",
+            "created": "2023-02-23",
+            "example": "I had an accident on my bike and now the front wheel is bent."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 173,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Jog",
+            "meaning": "sekin yurmoq,sekin yugurish",
+            "created": "2023-02-23",
+            "example": "I go jogging every morning"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 174,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Cut down (on)",
+            "meaning": "kamaytirmoq",
+            "created": "2023-02-23",
+            "example": "I’m trying to cut down on the amount of sugar I eat."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 175,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Fall down",
+            "meaning": "yiqilib tushmoq",
+            "created": "2023-02-23",
+            "example": "I fell down and hurt my knee."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 176,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Get over",
+            "meaning": "tuzalmoq",
+            "created": "2023-02-23",
+            "example": "It can take weeks to get over an illness like that."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 177,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Go off",
+            "meaning": "eskirmoq,muddati o’tmoq",
+            "created": "2023-02-23",
+            "example": "Has this milk gone off?"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 178,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Lie down",
+            "meaning": "biroz yotmoq",
+            "created": "2023-02-23",
+            "example": "I’m going to go and lie down for a while."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 179,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Put on",
+            "meaning": "semirmoq",
+            "created": "2023-02-23",
+            "example": "I don't want to put on any more weight!"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 180,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Fold",
+            "meaning": "buklamoq",
+            "created": "2023-02-24",
+            "example": "Fold the paper in half"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 181,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Improvement",
+            "meaning": "yaxshilanish",
+            "created": "2023-02-24",
+            "example": "There has been an improvement in relations between the two countries."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 182,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Loose",
+            "meaning": "(kiyim) katta",
+            "created": "2023-02-24",
+            "example": "These jeans are a bit loose, so maybe I need a smaller size."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 183,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Pile",
+            "meaning": "uyum, to’da",
+            "created": "2023-02-24",
+            "example": "Rubbish lay in piles in the street"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 184,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Sleeve",
+            "meaning": "yeng",
+            "created": "2023-02-24",
+            "example": "Oh, no! I’ve got a hole in one of my sleeves"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 185,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Smooth",
+            "meaning": "silliq",
+            "created": "2023-02-24",
+            "example": "How do you keep your skin so smooth?"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 186,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Stretch",
+            "meaning": "cho’zmoq",
+            "created": "2023-02-24",
+            "example": "Can you stretch the material a little?"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 187,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Striped",
+            "meaning": "chiziqli, yo’l yo’l",
+            "created": "2023-02-24",
+            "example": "There was a blue and white striped tablecloth on the table"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 188,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Tight",
+            "meaning": "tor, kichik, tiqilib turadigan (kiyim)",
+            "created": "2023-02-24",
+            "example": "These shoes are too tight."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 189,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Compose",
+            "meaning": "tuzmoq",
+            "created": "2023-02-24",
+            "example": "She was able to compose a beautiful poem in just a few minutes"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 190,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Cut off",
+            "meaning": "kesish orqali butunlay olib tashlash, qirqib tashlash",
+            "created": "2023-02-24",
+            "example": "Keep your roses healthy by cutting off any dead flowers."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 191,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Do up",
+            "meaning": "kiyim tugmasini(zamokni) o’tkazmoq",
+            "created": "2023-02-24",
+            "example": "It’s very windy, so do your coat up."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 192,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Fill up",
+            "meaning": "to’liq to’ldirmoq",
+            "created": "2023-02-24",
+            "example": "Just fill this bowl up with sugar and put it on the table."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 193,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Have on",
+            "meaning": "kiymoq",
+            "created": "2023-02-24",
+            "example": "The man had a strange hat on."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 194,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Leave out",
+            "meaning": "qo’shmaslik, o’z ichiga olmaslik",
+            "created": "2023-02-24",
+            "example": "Don't leave your brother out - let him play with you and your friends."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 195,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Put on",
+            "meaning": "kiymoq",
+            "created": "2023-02-24",
+            "example": "Put your gloves and scarf on - it's cold outside."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 196,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Take off",
+            "meaning": "kiyimni yechmoq",
+            "created": "2023-02-24",
+            "example": "It felt good to finally take my shoes off after a long day"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 197,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Try on",
+            "meaning": "kiyib ko’rmoq",
+            "created": "2023-02-24",
+            "example": "You should try it on to see if it's the right size."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 198,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Extinct",
+            "meaning": "yo’q bo’lib ketgan",
+            "created": "2023-02-25",
+            "example": "Dinosaurs are extinct"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 199,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Forecast",
+            "meaning": "oldindan aytib bermoq",
+            "created": "2023-02-25",
+            "example": "Is it difficult to forecast the weather?"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 200,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Heatwave",
+            "meaning": "odatdagidan issiqroq payt, jazirama",
+            "created": "2023-02-25",
+            "example": "Britain has been having a heatwave for the last three weeks"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 201,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Lightning",
+            "meaning": "chaqmoq",
+            "created": "2023-02-25",
+            "example": "The ship was struck by lightning soon after it left the port"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 202,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Litter",
+            "meaning": "axlat, to’zitmoq",
+            "created": "2023-02-25",
+            "example": "The sign said ‘No littering!’. Pick up that litter and put it in the bin"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 203,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Mammal",
+            "meaning": "sutemizuvchi",
+            "created": "2023-02-25",
+            "example": "Humans and monkeys are mammals"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 204,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Mild",
+            "meaning": "yumshoq",
+            "created": "2023-02-25",
+            "example": "It was a mild winter"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 205,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Recycle",
+            "meaning": "qayta ishlamoq",
+            "created": "2023-02-25",
+            "example": "Let's recycle those old bottles."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 206,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Reptile",
+            "meaning": "sudralib yuruvchilar",
+            "created": "2023-02-25",
+            "example": "Crocodiles are reptiles"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 207,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Rescue",
+            "meaning": "qutqarmoq, xalos qilmoq",
+            "created": "2023-02-25",
+            "example": "The crew of the ship were rescued just before it sank."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 208,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Satellite",
+            "meaning": "sun’iy yo’ldosh",
+            "created": "2023-02-25",
+            "example": "There are lots of satellites above the Earth"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 209,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Thunder",
+            "meaning": "momaqaldiroq",
+            "created": "2023-02-25",
+            "example": "Listen to that thunder!"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 210,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "invade",
+            "meaning": "bostirib kirmoq",
+            "created": "2023-02-25",
+            "example": "Julius Caesar led the Roman invasion of Britain. Local people fought against the invaders."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 211,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Pollute",
+            "meaning": "ifloslamoq",
+            "created": "2023-02-25",
+            "example": "There are lots of different kinds of pollution."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 212,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Blow up",
+            "meaning": "portlamoq",
+            "created": "2023-02-25",
+            "example": "Luckily, the bomb didn't blow up"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 213,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Build up",
+            "meaning": "to increase, o’smoq",
+            "created": "2023-02-25",
+            "example": "These exercises are good for building up leg strength."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 214,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Clear up",
+            "meaning": "yig’ishtirmoq",
+            "created": "2023-02-25",
+            "example": "I ’ll clear up if you want to go to bed."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 215,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Go out",
+            "meaning": "yondirishni to’xtatmoq, o’chmoq",
+            "created": "2023-02-25",
+            "example": "The fire must have gone out during the night"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 216,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Keep out",
+            "meaning": "kirishiga qarshilik qilmoq",
+            "created": "2023-02-25",
+            "example": "Cars should be kept out of the city centre"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 217,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Put down",
+            "meaning": "yerga qo’ymoq",
+            "created": "2023-02-25",
+            "example": "Emma put her bag down and went upstairs."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 218,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Put out",
+            "meaning": "yong’inni o’chirmoq",
+            "created": "2023-02-25",
+            "example": "It took three firefighters to put the fire out"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 219,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Put up",
+            "meaning": "devorga ilmoq",
+            "created": "2023-02-25",
+            "example": "The teachers will put a notice up about the new courses."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 220,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Amusing",
+            "meaning": "kuldiradigan,kulgili",
+            "created": "2023-02-26",
+            "example": "Jan sent me an amusing birthday card"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 221,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Bad-tempered",
+            "meaning": "asabiy, yomon xulqli",
+            "created": "2023-02-26",
+            "example": "Relax and try not to be so bad-tempered."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 222,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Bully",
+            "meaning": "bezorilik qilmoq, zo’ravonlik qilmoq,zo’rlamoq",
+            "created": "2023-02-26",
+            "example": "You shouldn't bully the other children in your class."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 223,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Embarrassing",
+            "meaning": "xijolat qiladigan, uyaltiradigan, sarosimaga solib qo’yadigan",
+            "created": "2023-02-26",
+            "example": "What's the most embarrassing thing you’ve ever done?"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 224,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Miserable",
+            "meaning": "g’amgin",
+            "created": "2023-02-26",
+            "example": "He looked cold and miserable."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 225,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Naughty",
+            "meaning": "injiq,tantiq",
+            "created": "2023-02-26",
+            "example": "Sally was often naughty and got into trouble at school."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 226,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Regret",
+            "meaning": "afsuslanmoq,pushaymonlik",
+            "created": "2023-02-26",
+            "example": "We regret any problems because of the delay."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 227,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Ridiculous",
+            "meaning": "bema’ni, kulgili",
+            "created": "2023-02-26",
+            "example": "She looks absolutely ridiculous in that hat"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 228,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Calm down",
+            "meaning": "tinchlanmoq",
+            "created": "2023-02-26",
+            "example": "The woman finally calmed down and explained what had happened."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 229,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Cheer up",
+            "meaning": "quvonmoq, sevinmoq",
+            "created": "2023-02-26",
+            "example": "I started to cheer up when the sun came out."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 230,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Come on",
+            "meaning": "to be quicker",
+            "created": "2023-02-26",
+            "example": "Come on, or w e ll be late!"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 231,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Go on",
+            "meaning": "qilayotgan ishini davom ettirmoq",
+            "created": "2023-02-26",
+            "example": "Please go on with your work while I speak to the head teacher."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 232,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Hang on",
+            "meaning": "kutmoq",
+            "created": "2023-02-26",
+            "example": "Just hang on - I’ll be ready in a minute"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 233,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Run away (from)",
+            "meaning": "yugurib qochmoq",
+            "created": "2023-02-26",
+            "example": "The thief ran away from the police officers"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 234,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Shut up",
+            "meaning": "gapirishni to’xtatmoq, shovqin qilishni to’xtamoq",
+            "created": "2023-02-26",
+            "example": "Just shut up a minute and let me tell you what happened!"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 235,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Speak up",
+            "meaning": "balandroq gapirmoq",
+            "created": "2023-02-26",
+            "example": "You have to speak up a bit because my gran’s a bit deaf"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 236,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Assume",
+            "meaning": "taxmin qilmoq, mo’ljallamoq",
+            "created": "2023-03-07",
+            "example": "I assume everyone here has an e-mail address."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 237,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Convince",
+            "meaning": "ishontirmoq, ko’ndirmoq",
+            "created": "2023-03-07",
+            "example": "He failed to convince the judge that he was innocent"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 238,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Get rid of",
+            "meaning": "keraksiz narsani berib,tashlab,sotib yubormoq, xalos bo’lmoq",
+            "created": "2023-03-07",
+            "example": "We're moving, so we have to get rid of a lot of our furniture."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 239,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Gossip",
+            "meaning": "g’iybat,g’iybat qilmoq",
+            "created": "2023-03-07",
+            "example": "You shouldn't gossip about people."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 240,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Insult",
+            "meaning": "haqorat, haqorat qilmoq",
+            "created": "2023-03-07",
+            "example": "I’ve never heard such a dreadful insult."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 241,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Investigate",
+            "meaning": "har tomonlama tekshirmoq, o’rganib chiqmoq",
+            "created": "2023-03-07",
+            "example": "We sent a reporter to investigate the rumour."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 242,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Praise",
+            "meaning": "maqtamoq",
+            "created": "2023-03-07",
+            "example": "If you never praise your kids, how can they know when they're doing something right?"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 243,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Pretend",
+            "meaning": "mug’ombirlik qilmoq",
+            "created": "2023-03-07",
+            "example": "She closed her eyes and pretended to be asleep."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 244,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Refuse",
+            "meaning": "inkor qilmoq",
+            "created": "2023-03-07",
+            "example": "I asked him to apologise, but he refused."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 245,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Sensible",
+            "meaning": "aqlli,mulohazali",
+            "created": "2023-03-07",
+            "example": "This seems to be a sensible way of dealing with the problem."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 246,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Spare",
+            "meaning": "ortiqcha,zapas",
+            "created": "2023-03-07",
+            "example": "Bring a towel and some spare clothes"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 247,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Thought",
+            "meaning": "fikr,o’y",
+            "created": "2023-03-07",
+            "example": "I’ve just had an interesting thought"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 248,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Pick up",
+            "meaning": "ko’tarmoq",
+            "created": "2023-03-07",
+            "example": "Please pick those toys up and put them away."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 249,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Put back",
+            "meaning": "joyiga qaytarib qo’ymoq",
+            "created": "2023-03-07",
+            "example": "Can you put the book back when you've finished with it?"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 250,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Run out (of)",
+            "meaning": "yetishmaslik,qolmagan, tugab qolmoq",
+            "created": "2023-03-07",
+            "example": "Many hospitals are running out of money"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 251,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Share out",
+            "meaning": "taqsimlamoq",
+            "created": "2023-03-07",
+            "example": "The money will be shared out between 30 different environmental organizations."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 252,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Sort out",
+            "meaning": "muammoni yechmoq",
+            "created": "2023-03-07",
+            "example": "Investigators are still trying to sort out why the accident happened."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 253,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Watch out",
+            "meaning": "ehtiyot bo’lmoq, Ko’zinga qara",
+            "created": "2023-03-07",
+            "example": "Watch out -you 're going to hit that car!"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 254,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Work out",
+            "meaning": "yechim topmoq",
+            "created": "2023-03-07",
+            "example": "We can't work out how to get the Internet connection going."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 255,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Check in",
+            "meaning": "register at a hotel or an airport",
+            "created": "2023-02-28",
+            "example": "Give me your passport and I'll go to the desk to check in."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 256,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Check out",
+            "meaning": "leave a hotel",
+            "created": "2023-02-28",
+            "example": "All guests must check out by midday."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 257,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Drop off",
+            "meaning": "let someone get out of a vehicle, fall asleep",
+            "created": "2023-02-28",
+            "example": "Let's get the taxi driver to drop us off outside the supermarket. After a long day at work, Henry dropped off in front of the TV"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 258,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Get back",
+            "meaning": "return from a place",
+            "created": "2023-02-28",
+            "example": "When did you get back from holiday?"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 259,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Go away",
+            "meaning": "go on holiday.",
+            "created": "2023-02-28",
+            "example": "We go away every summer, and this year we're thinking about Russia"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 260,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Keep up with",
+            "meaning": "stay at the same point/level as:",
+            "created": "2023-02-28",
+            "example": "Gordon walks so fast that no one can keep up with him!"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 261,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Make for",
+            "meaning": "go in the direction of",
+            "created": "2023-02-28",
+            "example": "It started to rain so we made for a nearby farmhouse"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 262,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Pick up",
+            "meaning": "stop in a vehicle to give someone a lift",
+            "created": "2023-02-28",
+            "example": "I’ll pick you up from outside your house and we'll drive into town"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 263,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Pull in",
+            "meaning": "stop by the side of the road in a car .",
+            "created": "2023-02-28",
+            "example": "Could you just pull in for a second so that I can buy some chewing gum?"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 264,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Run over",
+            "meaning": "hit with a car.",
+            "created": "2023-02-28",
+            "example": "Andrea was run over outside her house and she's been taken to hospital."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 265,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "See off",
+            "meaning": "go to a train station, etc to see someone leave",
+            "created": "2023-02-28",
+            "example": "We all went to the bus station to see Grandma off."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 266,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Turn round",
+            "meaning": "go back in the opposite direction:",
+            "created": "2023-02-28",
+            "example": "I realised I'd forgotten my phone so I turned round and went back to get it"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 267,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Verdict",
+            "meaning": "hukm",
+            "created": "2023-03-10",
+            "example": ""
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 268,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Burglar",
+            "meaning": "o’g’ri",
+            "created": "2023-03-10",
+            "example": ""
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 269,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Vandal",
+            "meaning": "bezori",
+            "created": "2023-03-10",
+            "example": ""
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 270,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Imprison",
+            "meaning": "qamoqqa olmoq",
+            "created": "2023-03-10",
+            "example": ""
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 271,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Innocent",
+            "meaning": "begunoh",
+            "created": "2023-03-10",
+            "example": ""
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 272,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Guilty",
+            "meaning": "aybdor",
+            "created": "2023-03-10",
+            "example": ""
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 273,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Witness",
+            "meaning": "guvoh",
+            "created": "2023-03-10",
+            "example": ""
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 274,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Bystander",
+            "meaning": "kuzatuvchi",
+            "created": "2023-03-10",
+            "example": ""
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 275,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Solicitor",
+            "meaning": "advokat",
+            "created": "2023-03-10",
+            "example": ""
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 276,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Forgery",
+            "meaning": "qalbaki",
+            "created": "2023-03-10",
+            "example": ""
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 277,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Back down",
+            "meaning": "Stop demanding sth, stop saying that you will do sth (fikridan qaytmoq)",
+            "created": "2023-03-10",
+            "example": "It seemed as if the man was going to start a fight with the manager, but he eventually backed down"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 278,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Bring in",
+            "meaning": "introduce a new law or system",
+            "created": "2023-03-10",
+            "example": "The government are planning to bring in a law banning hunting."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 279,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Break out",
+            "meaning": "escape (from prison)",
+            "created": "2023-03-10",
+            "example": "Reports are coming in that five prisoners have broken out of pentonwood prison"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 280,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Chase after",
+            "meaning": "follow sb/sth quickly in order to catch them",
+            "created": "2023-03-10",
+            "example": "The shopkeeper ran out of the shop and chased after the shoplifter as he ran down the street."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 281,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Come forward",
+            "meaning": "offer to give help or information",
+            "created": "2023-03-10",
+            "example": "After the police appealed for help from the public, a number of people came forward with useful information."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 282,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Get away with",
+            "meaning": "escape punishment for",
+            "created": "2023-03-10",
+            "example": "The police promised that the thieves would not be allowed to get away with the robbery."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 283,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Go off",
+            "meaning": "explode; be fired (for a gun, usually accidentally)",
+            "created": "2023-03-10",
+            "example": "A bomb went off outside the Syrian embassy in London today, injuring five people."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 284,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Hand in",
+            "meaning": "give to a person in authority",
+            "created": "2023-03-10",
+            "example": "I took the wallet I had found and handed it in at the police station"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 285,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Hold up",
+            "meaning": "rob while threatening violence; delay",
+            "created": "2023-03-10",
+            "example": "Two men held up a security van today and then escaped on motorbikes. I was held up in a traffic jam"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 286,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Let off",
+            "meaning": "give little or no punishment; make a bomb, etc explode’",
+            "created": "2023-03-10",
+            "example": "I can't believe that the teacher let Ben off with just a warning! Be very careful if you're going to let off those fireworks."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 287,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Look into",
+            "meaning": "investigate",
+            "created": "2023-03-10",
+            "example": "Police are looking into the theft."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 288,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Make off",
+            "meaning": "escape",
+            "created": "2023-03-10",
+            "example": "It seems that the burglars made off without being seen by dressing as postmen."
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 289,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Take down",
+            "meaning": "write down what someone says",
+            "created": "2023-03-10",
+            "example": "Could I just take down your details?"
+        }
+    },
+    {
+        "model": "dictionary.dictionary",
+        "pk": 290,
+        "fields": {
+            "chat_id": 764719178,
+            "word": "Take in",
+            "meaning": "trick sb into believing sth that is not true",
+            "created": "2023-03-10",
+            "example": "The man at the door claimed to be a policeman, but the old woman wasn't taken in"
+        }
+    }
+]
