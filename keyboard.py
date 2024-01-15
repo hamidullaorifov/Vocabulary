@@ -17,6 +17,7 @@ def periods_keyboard():
         [InlineKeyboardButton(text='Last day',callback_data='period_lastday')],
         [InlineKeyboardButton(text='Last 3 days',callback_data='period_last3days')],
         [InlineKeyboardButton(text='Last Week',callback_data='period_lastweek')],
+        [InlineKeyboardButton(text='Category',callback_data='choose_category|0')]
     ])
 
 

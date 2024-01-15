@@ -15,18 +15,20 @@ from telegram import  Update,InlineKeyboardMarkup, InlineKeyboardButton
 from keyboard import menu_keyboard,periods_keyboard,back_to_menu_keyboard
 from datetime import date,timedelta
 from utils import text_to_dic,get_dictionary_from_xlsx
-from dictionary.models import Dictionary
+from dictionary.models import Dictionary,Category
 
 
 FIND_WORD_STATE, FIND_MEANING_STATE,CREATE_DICT_STATE,TEST_STATE = range(4)
 
 def start_handler(update:Update,context:CallbackContext):
+    
     context.chat_data.clear()
     update.message.reply_text('Hello,Choose menu!',reply_markup=menu_keyboard())
 
     
 
 def back_to_menu(update:Update,context:CallbackContext):
+    context.chat_data.clear()
     message = update.message or update.callback_query.message
     message.reply_text('Choose menu!',reply_markup=menu_keyboard())
     
@@ -60,13 +62,39 @@ def filter_dictionaries(chat_id,period):
     return dictionaries
 
 
+def choose_category_handler(update:Update,context:CallbackContext):
+    print('Category chose',update.callback_query.data)
+    _,category_id = update.callback_query.data.split('|')
+    category = Category.objects.get(pk=category_id)
+    dictionaries = category.dictionary_set.all()
+    set_context_dictionary(dictionaries,context)
+    return quiz(update,context)
 
 
-def choose_period_handler(update:Update,context:CallbackContext):
-    _,period = update.callback_query.data.split('_')
-    chat_id = update.callback_query.message.chat_id
-    state = context.chat_data.get('context','find_word')
-    dictionaries = filter_dictionaries(chat_id=chat_id,period=period)
+def choose_category_list_handler(update:Update,context:CallbackContext):
+    last = int(update.callback_query.data.split('|')[1])
+    all_categories = Category.objects.all()
+    count = all_categories.count()
+    categories = all_categories
+    if count>last:
+        categories = all_categories[last:min(last+10,count)]
+
+    inline_keyboard = [
+        [InlineKeyboardButton(text=category.title,callback_data=f'category|{category.pk}')]
+        for category in categories
+    ]
+    if count > last+10:
+        inline_keyboard.append(
+            [InlineKeyboardButton(text='>>>',callback_data=f'choose_category|{last+10}')]
+        )
+    if 10 < last:
+        inline_keyboard.append(
+            [InlineKeyboardButton(text='<<<',callback_data=f'choose_category|{last-10}')]
+        )
+    update.callback_query.message.reply_text(text="Choose category",reply_markup=InlineKeyboardMarkup(inline_keyboard=inline_keyboard))
+
+def set_context_dictionary(dictionaries,context):
+    state = context.chat_data.get('state','find_word')
     dics = []
     if state == 'find_meaning':
         dics = [
@@ -85,6 +113,14 @@ def choose_period_handler(update:Update,context:CallbackContext):
             } for d in dictionaries
         ]
     context.chat_data['dictionary'] = dics
+
+
+def choose_period_handler(update:Update,context:CallbackContext):
+    _,period = update.callback_query.data.split('_')
+    chat_id = update.callback_query.message.chat_id
+    
+    dictionaries = filter_dictionaries(chat_id=chat_id,period=period)
+    set_context_dictionary(dictionaries,context)
     return quiz(update,context)
 
 def find_word_handler(update:Update,context:CallbackContext):

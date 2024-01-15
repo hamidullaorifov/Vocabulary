@@ -53,6 +53,8 @@ dispatcher.add_handler(CallbackQueryHandler(callback=new_dictionary_handler,patt
 dispatcher.add_handler(CallbackQueryHandler(callback=find_word_handler,pattern=r'^find_word$'))
 dispatcher.add_handler(CallbackQueryHandler(callback=find_meaning_handler,pattern=r'^find_meaning$'))
 dispatcher.add_handler(CallbackQueryHandler(callback=choose_period_handler,pattern=r'period_\w+\b'))
+dispatcher.add_handler(CallbackQueryHandler(callback=choose_category_list_handler,pattern=r'^choose_category\|'))
+dispatcher.add_handler(CallbackQueryHandler(callback=choose_category_handler,pattern=r'category\|(\d+)'))
 dispatcher.add_handler(CallbackQueryHandler(callback=quiz_callback_handler,pattern=r'^(no|yes|check)$'))
 dispatcher.add_handler(CallbackQueryHandler(callback=back_to_menu,pattern=r'^back_to_menu$'))
 dispatcher.add_handler(MessageHandler(Filters.text & ~Filters.command,callback=handle_dictionary_text))
