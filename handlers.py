@@ -197,9 +197,9 @@ def handle_dictionary_text(update: Update,context:CallbackContext):
         created = date(year=int(d[2]),month=int(d[1]),day=int(d[0]))
     else:
         created = date.today()
-    
+    category,_ = Category.objects.get_or_create(title=date_str)
     for d in dic:
-        Dictionary.objects.get_or_create(word=d[0],meaning=d[1],example=d[2],created=created,chat_id=chat_id)
+        Dictionary.objects.get_or_create(category=category,word=d[0],meaning=d[1],example=d[2],created=created,chat_id=chat_id)
     update.message.reply_text(text='Successfully created',reply_markup=back_to_menu_keyboard())
     return CREATE_DICT_STATE
 
@@ -222,9 +222,9 @@ def handle_dictionary_file(update: Update,context:CallbackContext):
                     created = date.today()
             else:
                 created = date.today()
-    
+            category,_ = Category.objects.get_or_create(title=date_str)
             for d in dics:
-                Dictionary.objects.get_or_create(word=d[0],meaning=d[1],example=d[2],created=created,chat_id=chat_id)
+                Dictionary.objects.get_or_create(category=category,word=d[0],meaning=d[1],example=d[2],created=created,chat_id=chat_id)
             update.message.reply_text(text='Successfully created',reply_markup=back_to_menu_keyboard())
     except Exception as e:
         update.message.reply_text(e,reply_markup=back_to_menu_keyboard())
